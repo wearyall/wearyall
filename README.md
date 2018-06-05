@@ -1,2 +1,2 @@
 # wearyall
-##Home for all my learning projects
+Home for all my learning projects
